@@ -1,0 +1,1 @@
+k(x,y)\quad =\quad \left< \phi (x) \right ,\left \phi (y) \right> \quad =\quad \alpha \quad ,\quad \alpha \quad >\quad 0\quad is\quad a\quad kernel\quad function\quad with\quad embedding\quad \phi (x)\quad =\quad \sqrt { \alpha  } \\ \\ 
